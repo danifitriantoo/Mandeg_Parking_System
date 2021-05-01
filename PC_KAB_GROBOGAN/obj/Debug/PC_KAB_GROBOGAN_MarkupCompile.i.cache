@@ -1,0 +1,20 @@
+﻿PC_KAB_GROBOGAN
+
+
+winexe
+C#
+.cs
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\
+PC_KAB_GROBOGAN
+none
+false
+DEBUG;TRACE
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\App.xaml
+6116035419
+
+24-524683109
+13-1505183044
+MainWindow.xaml;Views\Home\LoginAccess.xaml;Views\Home\MainFormView.xaml;Views\Inventories\MasterMemberView.xaml;Views\Inventories\MasterVehicleView.xaml;Views\Transaction\ParkingPaymentView.xaml;
+
+False
+

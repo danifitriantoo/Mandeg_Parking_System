@@ -1,0 +1,50 @@
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\bin\Debug\PC_KAB_GROBOGAN.exe.config
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\bin\Debug\PC_KAB_GROBOGAN.exe
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\bin\Debug\PC_KAB_GROBOGAN.pdb
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\PC_KAB_GROBOGAN.csprojAssemblyReference.cache
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\MainWindow.g.cs
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\Views\Home\LoginAccess.g.cs
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\App.g.cs
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\PC_KAB_GROBOGAN_MarkupCompile.cache
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\PC_KAB_GROBOGAN_MarkupCompile.lref
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\MainWindow.baml
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\Views\Home\LoginAccess.baml
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\PC_KAB_GROBOGAN.g.resources
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\PC_KAB_GROBOGAN.Properties.Resources.resources
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\PC_KAB_GROBOGAN.csproj.GenerateResource.cache
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\PC_KAB_GROBOGAN.csproj.CoreCompileInputs.cache
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\PC_KAB_GROBOGAN.exe
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\PC_KAB_GROBOGAN.pdb
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\Views\Home\MainFormView.g.cs
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\Views\Home\MainFormView.baml
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\Views\Inventories\MasterMemberView.g.cs
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\Views\Inventories\MasterMemberView.baml
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\Views\Inventories\MasterVehicleView.g.cs
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\Views\Inventories\MasterVehicleView.baml
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\Views\Transaction\ParkingPaymentView.g.cs
+C:\Users\server\source\repos\PC_KAB_GROBOGAN\PC_KAB_GROBOGAN\obj\Debug\Views\Transaction\ParkingPaymentView.baml
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\bin\Debug\PC_KAB_GROBOGAN.exe.config
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\bin\Debug\PC_KAB_GROBOGAN.exe
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\bin\Debug\PC_KAB_GROBOGAN.pdb
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\PC_KAB_GROBOGAN.csprojAssemblyReference.cache
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\MainWindow.g.cs
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\Views\Home\LoginAccess.g.cs
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\Views\Home\MainFormView.g.cs
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\Views\Inventories\MasterMemberView.g.cs
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\Views\Inventories\MasterVehicleView.g.cs
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\Views\Transaction\ParkingPaymentView.g.cs
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\App.g.cs
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\PC_KAB_GROBOGAN_MarkupCompile.cache
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\PC_KAB_GROBOGAN_MarkupCompile.lref
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\MainWindow.baml
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\Views\Home\LoginAccess.baml
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\Views\Home\MainFormView.baml
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\Views\Inventories\MasterMemberView.baml
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\Views\Inventories\MasterVehicleView.baml
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\Views\Transaction\ParkingPaymentView.baml
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\PC_KAB_GROBOGAN.g.resources
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\PC_KAB_GROBOGAN.Properties.Resources.resources
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\PC_KAB_GROBOGAN.csproj.GenerateResource.cache
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\PC_KAB_GROBOGAN.csproj.CoreCompileInputs.cache
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\PC_KAB_GROBOGAN.exe
+D:\.NET\CSharp\Mandeg Parkir\PC_KAB_GROBOGAN\obj\Debug\PC_KAB_GROBOGAN.pdb
